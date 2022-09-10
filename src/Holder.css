@@ -1,0 +1,11 @@
+.Holder {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  border: 2px solid green;
+  background-color: #fff;
+  width: 800px;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
